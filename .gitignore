@@ -1,0 +1,8 @@
+.checkstyle
+.classpath
+.pmd
+.project
+.settings/
+target/
+.idea
+*.iml
