@@ -26,8 +26,8 @@ You can use the plugin by adding it to the plug-in section in your pom;
 	<plugins>
 		<plugin>
 			<groupId>com.github.szil</groupId>
-            <artifactId>jasper-compiler-maven-plugin</artifactId>
-            <version>3.0.0-SNAPSHOT</version>
+			<artifactId>jasper-compiler-maven-plugin</artifactId>
+			<version>3.0.0-SNAPSHOT</version>
 			<executions>
 				<execution>
 					<phase>process-sources</phase>
