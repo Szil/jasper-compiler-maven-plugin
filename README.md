@@ -5,7 +5,7 @@ This maven plugin compiles Jasper files to the target directory.
 
 Motivation
 ----------
-The original ([https://github.com/alexnederlof/Jasper-report-maven-plugin]) plugin got outdated. The goal was to contribute to the original repository, but while wanted to bump
+The original (https://github.com/alexnederlof/Jasper-report-maven-plugin) plugin got outdated. The goal was to contribute to the original repository, but while wanted to bump
 the dependencies version the whole thing got unusable. The maven mojo and the compiler task are same as the original, but I made the Jasperreports dependency provided as
 the user shall include the desired version of the jasper compiler for compatibility.
 
@@ -17,7 +17,7 @@ The plugin is provided as is and not planning to release to the central reposito
 Check out & run Maven clean install.
 
 An example project can be found here:
-[https://github.com/Szil/jasper-compiler-sample]
+https://github.com/Szil/jasper-compiler-sample
 
 You can use the plugin by adding it to the plug-in section in your pom;
 
